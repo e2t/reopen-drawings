@@ -1,4 +1,6 @@
-﻿# ReopenDrawings
+This project has been moved to https://codeberg.org/e2t/reopen-drawings
+ 
+ # ReopenDrawings
 Макрос групповых операций над чертежами SolidWorks в указанной папке.
 
 Макрос перебирает все чертежи в указанном каталоге, производя следующие действия:
